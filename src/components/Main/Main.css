@@ -1,0 +1,20 @@
+.main-heading {
+  font-size: 44px;
+  font-weight: bold;
+}
+.main-para {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.671);
+  margin-bottom: 40px;
+}
+.main-btn {
+  background-color: #03b97c;
+  padding: 10px 20px;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+}
+.main-img {
+  width: 100%;
+}

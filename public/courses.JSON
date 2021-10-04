@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Advance PHP Knowledge With Laravel To Make Smart Web",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-1.jpg",
+    "catagory": "Development",
+    "enrolled": 1250,
+    "teacher": "Rovert Fox",
+    "price": 149
+  },
+  {
+    "id": 2,
+    "name": "Basic Knowledge About Hodiernal Bharat In History",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-2.jpg",
+    "catagory": "Banking",
+    "enrolled": 1510,
+    "teacher": "halver iyce",
+    "price": 229
+  },
+  {
+    "id": 3,
+    "name": "UI/UX Design Pattern For Succesfull Software Applications",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-3.jpg",
+    "catagory": "Design",
+    "enrolled": 2210,
+    "teacher": "Bruses ayla",
+    "price": 99
+  },
+  {
+    "id": 4,
+    "name": "The Complete Accounting & Bank Financial Course 2021",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-4.jpg",
+    "catagory": "Pysics",
+    "enrolled": 2230,
+    "teacher": "Mellisa barsu Fox",
+    "price": 179
+  },
+  {
+    "id": 5,
+    "name": "The Complete Business Plan Course Includes 50 Templates",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-5.jpg",
+    "catagory": "Math",
+    "enrolled": 1360,
+    "teacher": "Rovert Fox",
+    "price": 89
+  },
+  {
+    "id": 6,
+    "name": "Full Web Designing Course With 41 Web Template Designing",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-6.jpg",
+    "catagory": "History",
+    "enrolled": 1180,
+    "teacher": "Mellisa Ray",
+    "price": 139
+  },
+  {
+    "id": 7,
+    "name": "Wordpress Course With 34 Web Template Designing",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-7.jpg",
+    "catagory": "Development",
+    "enrolled": 1050,
+    "teacher": "Rovert Fox",
+    "price": 159
+  },
+  {
+    "id": 8,
+    "name": "SEO Course With 24 Web Template Designing",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-8.jpg",
+    "catagory": "Digital Marketing",
+    "enrolled": 450,
+    "teacher": "Rovert Fox",
+    "price": 189
+  },
+  {
+    "id": 9,
+    "name": "Digital Market Course With 67 Web Template Designing",
+    "img": "https://themezhub.net/skillup-demo/assets/img/cr-9.jpg",
+    "catagory": "Digital Marketing",
+    "enrolled": 2300,
+    "teacher": "Dunny laim",
+    "price": 189
+  }
+]

@@ -1,0 +1,18 @@
+.logo {
+  color: #03b97c;
+  font-size: 26px;
+  font-weight: bold;
+}
+.link-item {
+  margin-right: 30px;
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+.link-item:hover {
+  color: #03b97c;
+}
+.selected {
+  color: #03b97c;
+}
