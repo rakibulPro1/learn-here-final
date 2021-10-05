@@ -30,7 +30,7 @@ const Course = (props) => {
               </div>
 
               <Card.Title>{name}</Card.Title>
-              <div className="d-flex justify-content-between">
+              <div className="d-flex justify-content-between mt-4">
                 <div>
                   <h3>
                     <span style={{ fontSize: "20px", fontWeight: "bold" }}>
