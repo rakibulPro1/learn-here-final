@@ -3,10 +3,9 @@ import { Row } from "react-bootstrap";
 import useCourses from "../../hooks/useCourses/useCourses";
 import Course from "../Course/Course";
 
-const Courses = () => {
-  // Custom hook useCourses
+const Feature = () => {
+  // Custom hook useCourse
   const [courses] = useCourses();
-
   return (
     <div>
       <div className="text-center my-5">
@@ -14,8 +13,8 @@ const Courses = () => {
           Our Courses
         </h3>
       </div>
-      <Row xs={1} md={3} className="g-4 px-5">
-        {courses.map((course) => (
+      <Row xs={1} md={2} className="g-4 px-5">
+        {courses.slice(0, 4).map((course) => (
           <Course course={course}></Course>
         ))}
       </Row>
@@ -23,4 +22,4 @@ const Courses = () => {
   );
 };
 
-export default Courses;
+export default Feature;

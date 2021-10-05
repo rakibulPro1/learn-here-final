@@ -7,6 +7,7 @@ import NotFound from "./components/NotFound/NotFound";
 import Main from "./components/Main/Main";
 import Courses from "./components/Courses/Courses";
 import Contact from "./components/Contact/Contact";
+import Feature from "./components/Feature/Feature";
 
 function App() {
   return (
@@ -19,12 +20,12 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Main></Main>
-            <Courses></Courses>
+            <Feature></Feature>
             <About></About>
           </Route>
           <Route path="/home">
             <Main></Main>
-            <Courses></Courses>
+            <Feature></Feature>
             <About></About>
           </Route>
           <Route path="/about">
